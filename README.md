@@ -1,4 +1,4 @@
-_Information based on the current state. The game created for `#AdvJam2016`, and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **Strikethrough will update in the future.**_
+_Information based on the current state. The game created for `#AdvJam2016`, and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **~~Strikethrough~~ will update in the future.**_
 ***
 # Overview
 『Where is my cranberry jam?』 is an indie adventure created by YGGDRASIL STUDIO. Ga-yeon must find the missing cranberry jam. `#WIMCJ`
