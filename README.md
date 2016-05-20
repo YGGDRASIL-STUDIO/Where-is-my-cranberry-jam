@@ -41,7 +41,7 @@ _Information based on the current state. The game created for `#AdvJam2016`, and
 ***
 # Minimum System Requirements
 |Platform|Linux| Mac OS X| Windows|
-| ------------- | ----------- | ----------- |
+| ------------- | ----------- | ----------- | ----------- |
 |OS|Linux x86|Mac OS X 10.6.3 Snow Leopard x86|Windows XP x86|
 |CPU|Intel Celeron 700 MHz|Intel processor (IA-32)|Pentium 4 1.66 GHz|
 |RAM|512MB RAM|1GB RAM|512MB RAM|
