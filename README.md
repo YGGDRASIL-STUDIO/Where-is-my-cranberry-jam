@@ -1,19 +1,18 @@
-_Information based on the current state. The game created for `#AdvJam2016`, and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **Spoilers will update in the future.**_
+_Information based on the current state. The game created for `#AdvJam2016`, and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **Strikethrough will update in the future.**_
 ***
 # Overview
 『Where is my cranberry jam?』 is an indie adventure created by YGGDRASIL STUDIO. Ga-yeon must find the missing cranberry jam. `#WIMCJ`
 ***
 # Description
-* The game is an extra-sequel in the **Project DW** series, a very short and small mini-game.
->! a funny story based on the voxel world.
-* >! Ga-yeon abandoned in the **Voxel World**. To return to the real world, she must perform missions received from angel and devil, and witch.
+* The game is an extra-sequel in the **Project DW** series, a very short and small mini-game. ~~a funny story based on the voxel world.~~
+* ~~Ga-yeon abandoned in the **Voxel World**. To return to the real world, she must perform missions received from angel and devil, and witch.~~
 * Scenarios will be moved through the third person point of view, and the levels will be moved through Ga-yeon's point of view.
 * In the levels, you can control Ga-yeon and explore the voxel world.
 
 ***
 # Features
 * The animation-style art with voxel world.
-* >! Each levels has the various size map and time limits, puzzles, tricks, and rewards.
+* ~~Each levels has the various size map and time limits, puzzles, tricks, and rewards.~~
 * Room contains a Gallery and Trophies, and Objects that you collect.
 * Full controller support.
 * **Game Jolt Scoreboards, Trophies support.**
