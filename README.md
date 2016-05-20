@@ -48,4 +48,4 @@ _Information based on the current state. The game created for [`#AdvJam2016`](ht
 |HDD|100MB|100MB|100MB|
 |ETC|-|-|DirectX 9.0 c|
 ***
-[VirusTotal Analysis](https://virustotal.com/en/file/06af300d022307eeedd9709890ce8ee532f153905ef6fe028419b3cf38d33480/analysis/1463713070/)
+[VirusTotal Analysis](https://virustotal.com/en/file/771a2ccccdb90cff8d127a2309f813313b569fd7d99ffdd31d2e62b1352a6daf/analysis/)
