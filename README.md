@@ -1,4 +1,4 @@
-*Information based on the current state. The game created for `#AdvJam2016`, and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **Spoilers will update in the future.***
+*Information based on the current state. The game created for `#AdvJam2016`, and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **Spoilers will update in the future.** *
 ***
 # Overview
 『Where is my cranberry jam?』 is an indie adventure created by YGGDRASIL STUDIO. Ga-yeon must find the missing cranberry jam. `#WIMCJ`
@@ -47,6 +47,6 @@
 |CPU|Intel Celeron 700 MHz|Intel processor (IA-32)|Pentium 4 1.66 GHz|
 |RAM|512MB RAM|1GB RAM|512MB RAM|
 |HDD|100MB|100MB|100MB|
-|ETC| | |DirectX 9.0 c|
+|ETC|-|-|DirectX 9.0 c|
 ***
 [VirusTotal Analysis](https://virustotal.com/en/file/06af300d022307eeedd9709890ce8ee532f153905ef6fe028419b3cf38d33480/analysis/1463713070/)
