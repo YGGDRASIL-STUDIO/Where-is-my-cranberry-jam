@@ -1,3 +1,5 @@
+![Splash screen of the Where is my cranberry jam?](https://s-media-cache-ak0.pinimg.com/564x/67/18/fe/6718fe0bb8dc97f8f452411610b00f66.jpg)
+
 _Information based on the current state. The game created for [`#AdvJam2016`](http://jams.gamejolt.io/adventurejam2016), and will also be released as a MOD of [Discouraged Workers](https://yggdrasil-studio.github.io/Discouraged-Workers/)(`#KNDW`), and individual title. **~~Strikethrough~~ will update in the future.**_
 ***
 # Overview
